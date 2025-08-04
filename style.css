@@ -1298,7 +1298,7 @@
   }
   
   .stat-label {
-    color: var(--text-light);
+    color: var(--text-dark);
     font-size: 0.9rem;
   }
   
