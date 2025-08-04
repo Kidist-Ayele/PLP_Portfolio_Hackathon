@@ -5,7 +5,7 @@ This is my personal portfolio website showcasing my skills, experience, and proj
 
 ## 🚀 Live Demo
 
-[View My Portfolio](https://your-portfolio-link.com)
+[View My Portfolio](https://kidist-portfolio.netlify.app/) https://kidist-portfolio.netlify.app/
 
 ## 🛠️ Technologies Used
 
