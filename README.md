@@ -17,7 +17,7 @@ This is my personal portfolio website showcasing my skills, experience, and proj
 ## 📁 Project Structure
 
 ```
-Portfolio/
+PLP_Portfolio_Hackathon/
 ├── index.html          # Main HTML file
 ├── style.css           # CSS styling
 ├── README.md           # This file
